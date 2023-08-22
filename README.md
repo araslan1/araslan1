@@ -16,7 +16,7 @@ Backend: https://github.com/araslan1/admitted-backend
 
 - ⚡ Fun fact **I play alto and tenor sexaophone**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/adam-raslan-542b5124a/</h3>
 <p align="left">
 </p>
 
