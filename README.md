@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
+<p align="left"><img alt="Coding image" src="/computer_image.jpeg"></p>
 
 - 🔭 I’m currently working on  **Admitted, a college prep service for high school students where your college-specific supplements are reviewed by students that attend those same schools: USC essays reviewed by USC students, Stanford essays by Stanford students...**
 Frontend: https://github.com/araslan1/admitted-frontend
