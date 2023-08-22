@@ -5,7 +5,7 @@ Backend: https://github.com/araslan1/admitted-backend
 
 - 🌱 I’m currently learning **Swift/IOS development**
 
-- 🌱 I’m currently learning **Swift/IOS development**
+- 🌱 I’m currently leing **Swift/IOS development**
 
 - 🤝 I am researching at **TESA Research, cancer genomic data mainly using python to aggregate large genome files to produces metrics for data visualization and machine learning algorithms**
 
