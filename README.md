@@ -4,7 +4,7 @@
 Frontend: https://github.com/araslan1/admitted-frontend
 Backend: https://github.com/araslan1/admitted-backend
 
-<img position="fixed" top ="800px"width="400px" "alt="Coding image" src="/computer_image_gif.gif">
+<img width="400px" "alt="Coding image" src="/computer_image_gif.gif">
 
 
 
