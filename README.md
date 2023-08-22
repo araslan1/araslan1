@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
+<p align="right"><img position="fixed" top ="200px"width="400px" "alt="Coding image" src="/computer_image_gif.gif"></p>
 
 - 🔭 I’m currently working on  **Admitted, a college prep service for high school students where your college-specific supplements are reviewed by students that attend those same schools: USC essays reviewed by USC students, Stanford essays by Stanford students...**
 Frontend: https://github.com/araslan1/admitted-frontend
@@ -13,8 +14,6 @@ Backend: https://github.com/araslan1/admitted-backend
 - 💬 Ask me about **react, cancer genomics, track and field!**
 
 - 📫 How to reach me **araslan@usc.edu**
-
-<p align="right"><img width="400px" "alt="Coding image" src="/computer_image_gif.gif"></p>
 
 - ⚡ Fun fact **I play alto and tenor sexaophone**
 
