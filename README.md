@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-- 🔭 I’m currently working on **Admitted, a college prep service for high school students where your college-specific supplements are reviewed by students that attend those same schools: USC essays reviewed by USC students, Stanford essays by Stanford students...**
+- 🔭 I’m currently working on Admitted, a college prep service for high school students where your college-specific supplements are reviewed by students that attend those same schools: USC essays reviewed by USC students, Stanford essays by Stanford students... [https://github.com/araslan1/admitted-frontend](https://github.com/araslan1/admitted-frontend)
 
 - 🌱 I’m currently learning **Swift/IOS development**
 
