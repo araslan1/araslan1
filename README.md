@@ -15,7 +15,7 @@ Backend: https://github.com/araslan1/admitted-backend
 
 - 📫 How to reach me **araslan@usc.edu**
 
-- ⚡ Fun fact **I play alto and tenor sexaophone**
+- ⚡ Fun fact **I play alto and tenor saxophone**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/adam-raslan-542b5124a/</h3>
 <p align="left">
