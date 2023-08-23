@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
+- 💬 Ask me about **react, cancer genomics, track and field!**
+
 - 🔭 I’m currently working on  **Admitted, a college prep service for high school students where your college-specific supplements are reviewed by students that attend those same schools: USC essays reviewed by USC students, Stanford essays by Stanford students...**
 Frontend: https://github.com/araslan1/admitted-frontend
 Backend: https://github.com/araslan1/admitted-backend
@@ -11,8 +13,6 @@ Backend: https://github.com/araslan1/admitted-backend
 - **2-D Word Cloud Lattice Generator**: https://github.com/araslan1/2-D-Mesh-Word-Cloud
 
 - **Genomic Data Calculations for Kmeans clustering**: https://github.com/araslan1/Genomic-Clusters-Data-Parsing-and-Calculations
-
-- 💬 Ask me about **react, cancer genomics, track and field!**
 
 - 🌱 I’m currently learning **Swift/IOS development**
 
