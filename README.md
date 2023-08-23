@@ -6,9 +6,11 @@ Backend: https://github.com/araslan1/admitted-backend
 
 - 🤝 I am researching at **TESA Research, involving cancer genomic data. We mainly use python to aggregate large genome files to produce metrics for data visualization and machine learning algorithms** 
   
-Tesa Research Projects:
-2-D Word Cloud Lattice Generator: https://github.com/araslan1/2-D-Mesh-Word-Cloud
-Genomic Data Calculations for Kmeans clustering: https://github.com/araslan1/Genomic-Clusters-Data-Parsing-and-Calculations
+- Tesa Research Projects:
+
+- 2-D Word Cloud Lattice Generator: https://github.com/araslan1/2-D-Mesh-Word-Cloud
+
+- Genomic Data Calculations for Kmeans clustering: https://github.com/araslan1/Genomic-Clusters-Data-Parsing-and-Calculations
 
 - 🌱 I’m currently learning **Swift/IOS development**
 
