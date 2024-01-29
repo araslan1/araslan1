@@ -14,7 +14,7 @@ Backend: https://github.com/araslan1/admitted-backend
 
 - **Genomic Data Calculations for Kmeans clustering**: https://github.com/araslan1/Genomic-Clusters-Data-Parsing-and-Calculations
 
-- 🌱 I’m currently learning **Swift/IOS development**
+- 🌱 I’m currently learning **ML and openCV**
 
 - 📫 How to reach me **araslan@usc.edu**
 
